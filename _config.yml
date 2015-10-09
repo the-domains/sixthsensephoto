@@ -1,6 +1,7 @@
 name: SixthSensePhoto
 favicon: null
 layout_spectrum: 1
+typography_spectrum: 0.32152
 cta:
   domain: null
   bucket: null
@@ -15,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ffffff'
-    - '#4281c4'
-    - '#f68122'
-    - '#f04730'
-    - '#a5c1e0'
-  brandStrength: 1
-  lightness: 0.5
+    - '#4181c3'
+    - '#f58121'
+    - '#ef472f'
+    - '#0000ff'
+    - '#aa5500'
+  brandStrength: 0
+  lightness: 0.4375
   saturation: 0.5
   rhythmicContrast: 0.5
 purpose: []
