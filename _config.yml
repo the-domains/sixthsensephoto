@@ -1,6 +1,6 @@
 name: SixthSensePhoto
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.8
 cta:
   domain: null
   bucket: null
