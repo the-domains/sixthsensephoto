@@ -1,6 +1,6 @@
 name: SixthSensePhoto
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.8
 cta:
   domain: null
   bucket: null
@@ -14,9 +14,17 @@ opengraph:
   type: null
   appId: null
 color:
-  brandColors: []
+  brandColors:
+    - '#4181c3'
+    - '#f58121'
+    - '#ef472f'
+    - '#0000ff'
+    - '#aa5500'
   brandStrength: 0
   lightness: 0.5
   saturation: 0.5
   rhythmicContrast: 0.5
-purpose: []
+purpose:
+  - name: engagement
+    item: null
+    url: null
