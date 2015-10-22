@@ -2,6 +2,7 @@ name: SixthSensePhoto
 favicon: null
 layout_spectrum: 0.26598
 typography_spectrum: 0.16404
+title: Sixth Sense Photo
 cta:
   domain: null
   bucket: null
